@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 from info import BOT_TOKEN, ADMINS
 
 # Define your token here
-TOKEN = BOT_TOKEN
+# TOKEN = BOT_TOKEN
 
 updater = Updater(token=TOKEN, use_context=True)
 
